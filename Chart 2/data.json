@@ -1,0 +1,10 @@
+{
+    "monthlySales": {
+        "labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "values": [100, 130, 150, 170, 190, 210, 190, 220, 230, 240, 250, 260]
+    },
+    "categorySales": {
+        "labels": ["Floral Dress", "Casual Dress", "Formal Dress", "Sexy Dress", "Plain Dress"],
+        "values": [70, 25, 21, 50, 10]
+    }
+}
